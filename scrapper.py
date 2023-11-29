@@ -41,7 +41,7 @@ def send_mail():
     # encryption
     server.starttls()
     server.ehlo()
-    server.login('siddharth007gandhi@gmail.com', 'ftgxhwqmefgidpqw')
+    server.login('gupta.ishan.1510@gmail.com', 'ftgxhwqmefgidpqw')
 
     # the connection is set
 
