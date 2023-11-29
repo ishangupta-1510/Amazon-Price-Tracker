@@ -52,7 +52,7 @@ def send_mail():
 
     # sending the mail
     server.sendmail(
-        'siddharth007gandhi@gmail.com',
+        'gupta.ishan.1510@gmail.com',
         'siddharth007gandhi@gmail.com',
         msg
     )
