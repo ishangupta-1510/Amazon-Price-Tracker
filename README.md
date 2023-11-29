@@ -8,7 +8,6 @@ This is a simple price tracker app using python that regularly compares the pric
 
 <h3>Price Tracker using Python</h3>
 <ul>
-  <li><a href= "https://www.geeksforgeeks.org/amazon-product-price-tracker-using-python/">Amazon Product Price Tracker- Geeks for Geeks</a></li>
   <li><a href= "https://www.scrapehero.com/tutorial-how-to-scrape-amazon-seller-prices-using-python/">Scape Hero Tutorial</a></li>
   </ul>
 <h3>Learn More</h3>
